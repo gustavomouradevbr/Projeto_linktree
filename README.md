@@ -1,5 +1,7 @@
 ### ✨ Preview do Projeto
 
+![Preview do Projeto](Projeto.png)
+
 ---
 
 ## 📖 Sobre o Projeto
