@@ -1,7 +1,5 @@
 ### ✨ Preview do Projeto
 
-![Preview do Projeto](./assets/preview.png)
-
 ---
 
 ## 📖 Sobre o Projeto
