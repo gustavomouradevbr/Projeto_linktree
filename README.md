@@ -22,14 +22,9 @@ Este é um agregador de links no estilo "link-in-bio", desenvolvido durante o cu
 
 ---
 
-## 🚀 Como Executar
+## 🚀 Link do site
 
-```bash
-# 1. Clone o repositório
-git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
-
-# 2. Abra o arquivo index.html no seu navegador.
-```
+https://gustavomouradevbr.github.io/Projeto_linktree/
 
 ---
 
